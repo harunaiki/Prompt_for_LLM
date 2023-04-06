@@ -6,8 +6,8 @@
 Execute above steps step by step.
 
 ## Variables:
-{main_topic}: マーケティング理論
-{different_knowledge_system}: 仏教
+{main_topic}: "好きな言葉" 例　マーケティング理論
+{different_knowledge_system}: "好きな言葉" 例　仏教
 
 ## Condition:
 - 2000 words
