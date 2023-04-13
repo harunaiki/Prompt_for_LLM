@@ -20,7 +20,7 @@
 ## ChatGPTの役割
 ## 制約条件
 - condition1
-- conditon2
+- conditon2_
 - …
 ## ChatGPT内部の実行ステップ
 - step1
