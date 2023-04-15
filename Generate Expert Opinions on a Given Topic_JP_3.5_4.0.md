@@ -64,5 +64,9 @@ Context: Expertise in the legal field
 - 最終意見のサンプル：
 ```
 After evaluating each expert opinion, we have decided that the best approach would be to..."
+```
 
 Lang: JPN
+
+-----
+理解しましたか？理解したらはいと言ってください。
